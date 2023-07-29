@@ -4,13 +4,14 @@
 - <b>[Active Directory] (Homelab)</b>
   - https://github.com/Mattisananalyst/Active-Directory-Lab/tree/main
 - <b>[Nessus Vulnerability Managament] (Homelab)</b>
-  - 
+  -
+- <b>[Microsoft Sentinel] Lab </b>
+  - https://github.com/Mattisananalyst/Microsoft-Sentinel-Lab
 
 
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
