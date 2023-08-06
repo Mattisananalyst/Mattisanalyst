@@ -8,7 +8,7 @@
 - <b>[Microsoft Sentinel] Lab </b>
   - https://github.com/Mattisananalyst/Microsoft-Sentinel-Lab
 - <b>Detection Lab (Homelab)</b>
-  - 
+  - https://github.com/Mattisananalyst/Detection-Lab/tree/main
 
 
 
